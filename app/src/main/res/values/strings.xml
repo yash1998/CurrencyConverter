@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+
+    <string name="currencydb_name">currency_database</string>
+</resources>
